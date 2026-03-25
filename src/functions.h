@@ -1,6 +1,7 @@
-// Add the include guard.
-
-// Include all the libraries needed by your solution
+// Added the include guard.
+#ifndef FUNCTIONS_H
+#define FUNCTIONS_H
+// Included all the libraries needed by solution
 #include <iostream>
 #include <vector>
 #include <string>
@@ -8,7 +9,7 @@
 
 using namespace std;
 
-// DO NOT MODIFY THIS STRUCTURE
+// DID NOT MODIFY THIS STRUCTURE :)
 
 struct symbol
 {
@@ -21,3 +22,5 @@ struct symbol
 
 
 // Write your functions here
+
+#endif
