@@ -6,7 +6,7 @@ int main()
     vector<symbol> alphabet;
     string filename;
     cin >> filename;
-    if (/*Call the read_input_from_file user-defined function here == */ true)
+    if (/*Call the read_input_from_file user-defined function here == true*/ false)
     {
         string original_message;
         //original_message.resize(/*call the original_message_size user-defined function here*/);
